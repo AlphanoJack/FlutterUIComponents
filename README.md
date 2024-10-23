@@ -18,10 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 
 #Sample Design
 
-GlowingBottomBar
+GlowingBottomBar<br>
 <img alt="sample" width="240" src=https://github.com/user-attachments/assets/a2017a50-5453-4a2e-a33c-47cb1b91c73b>
 
-CustomBottomBar
+CustomBottomBar<br>
 <img alt="sample" width="240" src=https://github.com/user-attachments/assets/a2017a50-5453-4a2e-a33c-47cb1b91c73b](https://github.com/user-attachments/assets/942a4938-d49e-4046-89f3-99d0ee07768a>
 
 
